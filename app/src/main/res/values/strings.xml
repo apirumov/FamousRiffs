@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FamousRiffs</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="riffBtn1">Riff 1</string>
+    <string name="riffBtn2">Riff 2</string>
+    <string name="riffBtn3">Riff 3</string>
+    <string name="riffBtn4">Riff 4</string>
+    <string name="riffBtn5">Riff 5</string>
+    <string name="riffBtn6">Riff 6</string>
+</resources>

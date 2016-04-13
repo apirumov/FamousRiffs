@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/riff1"
+            android:title="Riff 1" />
+        <item
+            android:id="@+id/riff2"
+            android:title="Riff 2" />
+        <item
+            android:id="@+id/riff3"
+            android:title="Riff 3" />
+        <item
+            android:id="@+id/riff4"
+            android:title="Riff 4" />
+        <item
+            android:id="@+id/riff5"
+            android:title="Riff 5" />
+        <item
+            android:id="@+id/riff6"
+            android:title="Riff 6" />
+    </group>
+
+
+</menu>

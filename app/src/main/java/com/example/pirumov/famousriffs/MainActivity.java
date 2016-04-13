@@ -1,5 +1,6 @@
 package com.example.pirumov.famousriffs;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -51,6 +52,8 @@ public class MainActivity extends AppCompatActivity
             public void onClick(View v) {
                 Toast toast = Toast.makeText(getApplicationContext(),"Run Riff first",Toast.LENGTH_SHORT);
                 toast.show();
+                Intent intent = new Intent(MainActivity.this, RiffActivityDrawer.class);
+                startActivity(intent);
             }
         });
 
